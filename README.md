@@ -5,9 +5,9 @@ Apache ActiveMQ 5.18.3
 
 ## System Report
 
-| Operating System    | JDK       | Architecture | Build | Date  |
-|---------------------|-----------|--------------|-------|-------|
-| Mac OSX 14.0        | Zulu 17   | AArch64      |       | |
+| Operating System    | JDK       | Maven | Architecture | Build | Date  |
+|---------------------|-----------|-------|--------------|-------|-------|
+| Mac OSX 14.0        | Zulu 11   | 3.8.4 | AArch64      |       |       |
 
 
 ## Errata
