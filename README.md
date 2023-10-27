@@ -10,6 +10,7 @@ Apache ActiveMQ 5.18.3
 | MacOS 14.0          | Zulu 11   | 3.8.4 | AArch64      | Success | Oct 27, 2023 |
 | MaxOS 14.0          | Eclipse Temurin 11 | 3.8.4 | AArch64      | Success | Oct 27, 2023 |
 | MaxOS 14.0          | Bellsoft Liberica 11 | 3.8.4 | AArch64      | Success | Oct 27, 2023 |
+| MaxOS 14.0          | Amazon Corretto 11 | 3.8.4 | AArch64      | Success | Oct 27, 2023 |
 | MaxOS 14.0          | IBM Semeru Open Edition 11 | 3.8.4 | AArch64      | Failed | Oct 27, 2023 |
 | MaxOS 14.0          | IBM Semeru Open Edition 17 | 3.8.4 | AArch64      | Success | Oct 27, 2023 |
 
