@@ -7,7 +7,7 @@ Apache ActiveMQ 5.18.3
 
 | Operating System    | JDK       | Maven | Architecture | Build | Date  |
 |---------------------|-----------|-------|--------------|-------|-------|
-| Mac OSX 14.0        | Zulu 11   | 3.8.4 | AArch64      |       |       |
+| MacOS 14.0          | Zulu 11   | 3.8.4 | AArch64      | Success | Oct 27, 2023 |
 
 
 ## Errata
