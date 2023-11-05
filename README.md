@@ -17,6 +17,7 @@ Apache ActiveMQ 5.18.3
 | MaxOS 14.0          | Amazon Corretto 17 | 3.8.4 | AArch64      | Success | Oct 27, 2023 |
 | MaxOS 14.0          | IBM Semeru Open Edition 11 | 3.8.4 | AArch64      | Failed | Oct 27, 2023 |
 | MaxOS 14.0          | IBM Semeru Open Edition 17 | 3.8.4 | AArch64      | Success | Oct 27, 2023 |
+| CentOS Stream 9     | IBM Semeru Open Edition 11 | 3.6.0 | PPC64LE      | Success | Nov 5, 2023 |
 
 
 ## Errata
