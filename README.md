@@ -7,13 +7,17 @@ Apache ActiveMQ 6.0.0
 
 | Operating System    | JDK       | Maven | Architecture | Build | Date  |
 |---------------------|-----------|-------|--------------|-------|-------|
-| CentOS Stream 9         | IBM Semeru Community Edition 17   | 3.6.3 | PPC64LE      |  |  |
-| MacOS 14.1.1          | Amazon Corretto 17   | 3.9.5 | AArch64      |  |  |
+| CentOS Stream 9         | IBM Semeru Community Edition 17   | 3.6.3 | PPC64LE      | Success | Nov 12, 2023 |
+| MacOS 14.1.1          | Amazon Corretto 17   | 3.9.5 | AArch64      |  Success | Nov 12, 2023 |
 | Ubuntu 22.04.3 LTS          | Amazon Corretto 17   | 3.9.5 | x64      |  |  |
 
 
 ## Errata
 
+Quick build to assure compilation. 
+```
+mvn clean install -DskipTests=true
+```
 
 ## How to use this repo
 
