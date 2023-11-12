@@ -7,7 +7,9 @@ Apache ActiveMQ 6.0.0
 
 | Operating System    | JDK       | Maven | Architecture | Build | Date  |
 |---------------------|-----------|-------|--------------|-------|-------|
-| MacOS 14.1.1          | Azul Zulu 11   | 3.9.5 | AArch64      |  |  |
+| CentOS Stream 9         | IBM Semeru Community Edition 17   | 3.6.4 | PPC64LE      |  |  |
+| MacOS 14.1.1          | Amazon Corretto 17   | 3.9.5 | AArch64      |  |  |
+| Ubuntu 22.04.3 LTS          | Amazon Corretto 17   | 3.9.5 | x64      |  |  |
 
 
 ## Errata
