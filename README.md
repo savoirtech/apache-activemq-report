@@ -7,11 +7,11 @@ Apache ActiveMQ 6.0.0
 
 | Operating System    | JDK       | Maven | Architecture | Build | Date  |
 |---------------------|-----------|-------|--------------|-------|-------|
-| CentOS Stream 9         | IBM Semeru Community Edition 17   | 3.6.3 | PPC64LE      | Success | Nov 12, 2023 |
-| MacOS 14.1.1          | Amazon Corretto 17   | 3.9.5 | AArch64      |  Success | Nov 12, 2023 |
-| Ubuntu 22.04.3 LTS          | Amazon Corretto 17   | 3.9.5 | x64      | Success | Nov 12, 2023 |
-| Ubuntu 22.04.3 LTS          | IBM Semeru Community Edition 17   | 3.9.5 | x64      | Success | Nov 13, 2023 |
-| Ubuntu 22.04.3 LTS          | Azul Zulu 21   | 3.9.5 | x64      | Success * | Nov 13, 2023 |
+| CentOS Stream 9         | IBM Semeru Community Edition 17   | 3.6.3 | PPC64LE      | Success | Nov 15, 2023 |
+| MacOS 14.1.1          | Amazon Corretto 17   | 3.9.5 | AArch64      |  Success | Nov 15, 2023 |
+| Ubuntu 22.04.3 LTS          | Amazon Corretto 17   | 3.9.5 | x64      | Success | Nov 15, 2023 |
+| Ubuntu 22.04.3 LTS          | IBM Semeru Community Edition 17   | 3.9.5 | x64      | Success | Nov 15, 2023 |
+| Ubuntu 22.04.3 LTS          | Azul Zulu 21   | 3.9.5 | x64      | Success * | Nov 15, 2023 |
 
 
 ## Errata
