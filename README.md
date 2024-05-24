@@ -8,6 +8,7 @@ Apache ActiveMQ 6.1.1
 | Operating System    | JDK       | Maven | Architecture | Build | Date  |
 |---------------------|-----------|-------|--------------|-------|-------|
 | Ubuntu 22.04.3 LTS          | Eclipse Adoptium 17   | 3.9.5 | x64      | Success | May 24, 2024 |
+| Ubuntu 22.04.3 LTS          | IBM Semeru 17   | 3.9.5 | x64      | Success | May 24, 2024 |
 
 
 
