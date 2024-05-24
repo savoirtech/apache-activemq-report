@@ -1,15 +1,13 @@
 # Apache ActiveMQ Report
 --- 
 
-Apache ActiveMQ 6.1.0
+Apache ActiveMQ 6.1.1
 
 ## System Report
 
 | Operating System    | JDK       | Maven | Architecture | Build | Date  |
 |---------------------|-----------|-------|--------------|-------|-------|
-| CentOS Stream 9         | IBM Semeru Community Edition 17   | 3.6.3 | PPC64LE      | Success  | March 27, 2024 |
-| Ubuntu 22.04.3 LTS          | Bellsoft 17   | 3.9.5 | x64      | Success | March 14, 2024 |
-| Ubuntu 22.04.3 LTS          | Amazon Corretto 17   | 3.9.5 | x64      | Success | March 13, 2024 |
+| Ubuntu 22.04.3 LTS          | Eclipse Adoptium 17   | 3.9.5 | x64      | Success | May 24, 2024 |
 
 
 
