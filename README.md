@@ -7,16 +7,7 @@ Apache ActiveMQ 5.18.5
 
 | Operating System    | JDK       | Maven | Architecture | Build | Date  |
 |---------------------|-----------|-------|--------------|-------|-------|
-| MacOS 14.0          | Azul Zulu 11   | 3.8.4 | AArch64      | - | - |
-| MacOS 14.0          | Azul Zulu 17   | 3.8.4 | AArch64      | - | - |
-| MacOS 14.0          | Eclipse Temurin 11 | 3.8.4 | AArch64      | - | - |
-| MacOS 14.0          | Eclipse Temurin 17 | 3.8.4 | AArch64      | - | - |
-| MacOS 14.0          | Bellsoft Liberica 11 | 3.8.4 | AArch64      | - | - |
-| MacOS 14.0          | Bellsoft Liberica 17| 3.8.4 | AArch64      | - | - |
-| MacOS 14.0          | Amazon Corretto 11 | 3.8.4 | AArch64      | - | - |
-| MacOS 14.0          | Amazon Corretto 17 | 3.8.4 | AArch64      | - | - |
-| MacOS 14.0          | IBM Semeru Open Edition 11 | 3.8.4 | AArch64      | - | - |
-| MacOS 14.0          | IBM Semeru Open Edition 17 | 3.8.4 | AArch64      | - | - |
+| MacOS 14.5          | Azul Zulu 11   | 3.8.4 | AArch64      | - | - |
 | CentOS Stream 9     | IBM Semeru Open Edition 11 | 3.6.0 | PPC64LE      | - | - |
 
 
