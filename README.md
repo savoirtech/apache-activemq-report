@@ -11,7 +11,7 @@ Apache ActiveMQ 5.18.5
 | MacOS 14.5          | Azul Zulu 11   | 3.9.5 | AArch64      | - | July 22, 2024 | - |
 | Ubuntu 22.04 LTS    | Azul Zulu 11   | 3.8.4 | x64      | - | - | |
 | CentOS Stream 9     | IBM Semeru Open Edition 11 | 3.6.0 | PPC64LE      | - | - | |
-| Windows 11 Pro      | Azul Zulu 17 | 3.6.0 | x64      | - | - | |
+| Windows 11 Pro      | Azul Zulu 17 | 3.6.0 | x64      | Failure | July 22, 2024 | ActiveMQ Client ActiveMQSslConnectionFactoryTest & ActiveMQXASslConnectionFactoryTest |
 
 
 ## Errata
