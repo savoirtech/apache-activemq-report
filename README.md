@@ -7,7 +7,7 @@ Apache ActiveMQ 6.1.3
 
 | Operating System    | JDK       | Maven | Architecture | Build | Date  | Notes |
 |---------------------|-----------|-------|--------------|-------|-------|-------|
-| CentOS Stream 9         | IBM Semeru Community Edition 17   | 3.6.3 | PPC64LE      | ? | ? | ? |
+| CentOS Stream 9         | IBM Semeru Community Edition 17   | 3.9.6 | PPC64LE      | ? | ? | ? |
 | Ubuntu 22.04.3 LTS          | Amazon Corretto 17   | 3.9.5 | x64      |  ? | ? | ? |
 
 
