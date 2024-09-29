@@ -13,6 +13,7 @@ Apache ActiveMQ 5.18.6
 | Ubuntu 22.04 LTS    | Azul Zulu 11   | 3.9.5 | x64      | Pending | Sept 29, 2024 |  |
 | CentOS Stream 9     | IBM Semeru Open Edition 11 | 3.6.0 | PPC64LE      | Pending | Sept 29, 2024 |  |
 | Windows 11 Pro      | Azul Zulu 17 | 3.8.5 | x64      | Failure | Sept 29, 2024 | Tests stalled on JournalArchieveTest testRecoveryOnArchieveFailure |
+| Windows 11 Pro      | IBM Semeru 17 | 3.8.5 | x64      | Failure | Sept 29, 2024 | Tests stalled on JournalArchieveTest testRecoveryOnArchieveFailure |
 | Windows 11       | Bellsoft Liberica 11 | 3.9.8 | AArch64      |  |  |  |
 
 
