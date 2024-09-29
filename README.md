@@ -7,7 +7,7 @@ Apache ActiveMQ 5.18.6
 
 | Operating System    | JDK       | Maven | Architecture | Build | Date  | Notes |
 |---------------------|-----------|-------|--------------|-------|-------|-------|
-| MacOS 14.6.1          | Azul Zulu 17   | 3.9.5 | AArch64      |  |  |  |
+| MacOS 14.6.1          | Azul Zulu 17   | 3.9.5 | AArch64      | Failure | Sept 29, 2024 | Mulitple failures. AMQ Client, Partition Manager, Unit tests, Http Protocol Support, All Jar Bundle, Web Demo, and Assembly.  |
 | MacOS 14.6.1          | Azul Zulu 11   | 3.9.5 | AArch64      |  |  |  |
 | MacOS 14.6.1          | Eclipse Adoptium 11   | 3.9.5 | AArch64      | Failure | Sept 29, 2024 | Multiple Unit test failures, MQTT protocol, HTTP protocol support, All Jar bundle, RAR, Web Demo, and assembly test. |
 | Ubuntu 22.04 LTS    | Azul Zulu 11   | 3.9.5 | x64      | Failure | Sept 29, 2024 | Multiple Unit test failures, AMQP, All Jar bundle, and assembly test. |
