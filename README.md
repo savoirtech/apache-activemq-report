@@ -12,7 +12,7 @@ Apache ActiveMQ 6.1.4
 | Ubuntu 24.04 LTS          | Bellsoft Liberica 17   | 3.9.5 | AArch64      |   |  |  |
 | Ubuntu 24.04 LTS          | IBM Semeru 17   | 3.9.5 | AArch64      |   |  |  |
 | Windows 11 Pro          | Eclipse Adoptium 21  | 3.9.5 | x64      |   |  |  |
-| Windows 11           | Bellsoft 11  | 3.9.5 | AArch64      |   |  |  |
+| Windows 11           | Bellsoft 17  | 3.9.5 | AArch64      |   |  |  |
 
 ## Errata
 
