@@ -7,7 +7,7 @@ Apache ActiveMQ 6.1.4
 
 | Operating System    | JDK       | Maven | Architecture | Build | Date  | Notes |
 |---------------------|-----------|-------|--------------|-------|-------|-------|
-| CentOS Stream 9         | IBM Semeru Community Edition 17   | 3.9.6 | PPC64LE      | Pending | Nov 8, 2024 |  |
+| CentOS Stream 9         | IBM Semeru Community Edition 17   | 3.9.6 | PPC64LE      | Success | Nov 8, 2024 | Several Unit test failures. |
 | Ubuntu 22.04.3 LTS          | Amazon Corretto 17   | 3.9.5 | x64      | Success | Nov 8, 2024 |  |
 | Ubuntu 22.04.3 LTS          | Eclipse Adoptium 17   | 3.9.5 | x64      | Pending | Nov 8, 2024 |  |
 | Ubuntu 24.04 LTS          | Bellsoft Liberica 17   | 3.9.5 | AArch64      | Pending | Nov 8, 2024 |  |
