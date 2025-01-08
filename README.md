@@ -13,7 +13,7 @@ Apache ActiveMQ 6.1.5
 | Ubuntu 24.04 LTS          | Bellsoft Liberica 17   | 3.9.5 | AArch64      |  | Jan 8, 2025 |  |
 | Ubuntu 24.04 LTS          | IBM Semeru 17   | 3.9.5 | AArch64      |   | Jan 8, 2025 |  |
 | Windows 11 Pro          | IBM Semeru 17  | 3.9.5 | x64      |  Success | Jan 8, 2025 | Journal Corruption For Index Recovery Test fails. |
-| Windows 11           | IBM Semeru 21  | 3.9.5 | AArch64      | Success  | Jan 8, 2025 |  |
+| Windows 11           | IBM Semeru 21  | 3.9.5 | AArch64      | Success  | Jan 8, 2025 | Journal Corruption For Index Recovery Test fails. |
 
 ## Errata
 
