@@ -12,7 +12,7 @@ Apache ActiveMQ 6.1.5
 | Ubuntu 24.04 LTS          | Bellsoft Liberica 17   | 3.9.5 | AArch64      | Success | Jan 10, 2025 | Unit tests, Http Protocol Support, All Jar Demo, and Assembly. |
 | Ubuntu 24.04 LTS          | Eclipse Adoptium 17    | 3.9.5 | x64      | Success  | Jan 9, 2025 | Some tests failed with Bind errors |
 | Windows 11 Pro          | IBM Semeru 17  | 3.9.5 | x64      |  Success | Jan 9, 2025 | Failed Journal Recovery Test |
-| Windows 11           | IBM Semeru 17  | 3.9.5 | AArch64      |   | Jan 9, 2025 | |
+| Windows 11           | IBM Semeru 21  | 3.9.5 | AArch64      | Pending  | Jan 10, 2025 | |
 | Windows 11           | Bellsoft Liberica 17  | 3.9.5 | AArch64      | Success  | Jan 9, 2025 | Failed Journal Recovery Test |
 
 
