@@ -13,7 +13,7 @@ Apache ActiveMQ 5.19.0
 | CentOS Stream 9     | IBM Semeru Open Edition 11 | 3.6.0 | PPC64LE      | Failure | March 7, 2025 | Build failure at Http Protocol Support - could not be resolved: org.apache.activemq:activemq-unit-tests:jar |
 | Windows 11 Pro      | Azul Zulu 17 | 3.8.5 | x64      |  |  | |
 | Windows 11 Pro      | IBM Semeru 17 | 3.8.5 | x64      |  |  |  |
-| Windows 11       | Bellsoft Liberica 17 | 3.9.8 | AArch64      |Failure | March 7, 2025| |
+| Windows 11       | Bellsoft Liberica 17 | 3.9.8 | AArch64      |Failure | March 7, 2025| Build fails at HTTP Protocol Support|
 
 
 ## Errata
