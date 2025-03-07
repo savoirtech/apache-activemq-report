@@ -1,7 +1,7 @@
 # Apache ActiveMQ Report
 --- 
 
-Apache ActiveMQ 5.18.6
+Apache ActiveMQ 5.19.0
 
 ## System Report
 
