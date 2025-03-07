@@ -8,7 +8,7 @@ Apache ActiveMQ 6.1.6
 | Operating System    | JDK       | Maven | Architecture | Build | Date  | Notes |
 |---------------------|-----------|-------|--------------|-------|-------|-------|
 | CentOS Stream 9         | IBM Semeru Community Edition 17   | 3.9.6 | PPC64LE      | Success | March 7, 2025 | A few unstable unit tests. |
-| Ubuntu 22.04.3 LTS          | Amazon Corretto 17   | 3.9.5 | x64      |  |  |  |
+| Ubuntu 22.04.3 LTS          | Amazon Corretto 17   | 3.9.5 | x64      | Success | March 7, 2025| Errors in AMQP, All Jar Bundle, Web Demo, and Assembly |
 | Ubuntu 24.04 LTS          | Bellsoft Liberica 17   | 3.9.5 | AArch64      |   |  |  |
 | Ubuntu 24.04 LTS          | IBM Semeru 17   | 3.9.5 | AArch64      |   |  |  |
 
