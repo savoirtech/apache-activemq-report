@@ -14,7 +14,7 @@ Apache ActiveMQ 5.18.7
 
 
 ## Errata
-
+Quick build completes, some unit tests require re-runs.
 
 ## How to use this repo
 
